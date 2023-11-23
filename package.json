@@ -1,0 +1,30 @@
+{
+  "name": "longreads",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^2.0.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "storybook": "^7.0.18",
+    "svelte": "^3.55.1",
+    "svelte-feather-icons": "^4.0.1",
+    "svelte-intersection-observer": "^0.10.1",
+    "vite": "^4.2.0"
+  },
+  "dependencies": {
+    "@lottiefiles/svelte-lottie-player": "^0.3.0",
+    "@sveltejs/svelte-scroller": "^2.0.7",
+    "gsap": "^3.11.5",
+    "smooth-scrollbar": "^8.8.3",
+    "svelte-inview": "^4.0.0",
+    "swiper": "^9.3.2",
+    "wavesurfer.js": "^7.4.2"
+  }
+}

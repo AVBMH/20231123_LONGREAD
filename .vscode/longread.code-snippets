@@ -1,0 +1,340 @@
+{
+  "svelte hero longread": {
+    "prefix": "hero",
+    "body": [
+      "<Hero",
+      "    afbeelding=\"https://markup.standaard.be/extra/assets/extra/dslive/anti/previsualisatie/soja/beeld_lores/amazone-foto/Par%C3%A1_A7167.jpg\"",
+      "    video=\"https://markup.standaard.be/extra/assets/extra/dslive/anti/previsualisatie/soja/1-amazone/assets/video/Cargill_Santarem2.mp4\"",
+      "    label=\"label\"",
+      "    sublabel=\"sublabel\"",
+      "    titel=\"Dit is de titel\"",
+      "    opacity",
+      "    scroll={true}",
+      "  />"
+    ],
+    "description": "svelte hero longread"
+  },
+  "svelte auteur longread": {
+    "prefix": "auteur",
+    "body": [
+      "<Auteur ",
+      "    name=\"Ine Renson\" ",
+      "    description=\"zaterdag 9 juni 2023\" ",
+      "    image=\"https://static.standaard.be/Assets/Images_Upload/2021/12/02/AMDS_IneRenson_L_crop.jpg\" ",
+      "/>"
+    ],
+    "description": "svelte auteur longread"
+  },
+  "svelte box longread": {
+    "prefix": "box",
+    "body": ["<Box width=\"normal\">", "", "</Box>"],
+    "description": "svelte box longread"
+  },
+  "svelte image longread": {
+    "prefix": "image",
+    "body": [
+      " <Image ",
+      "    url=\"https://markup.standaard.be/extra/assets/extra/dslive/anti/previsualisatie/soja/1-amazone/assets/0_bos.jpg?nieuw\"",
+      "    mobileUrl=\"https://markup.standaard.be/extra/assets/extra/dslive/anti/previsualisatie/soja/1-amazone/assets/0_bos.jpg?nieuw\"",
+      "    width=\"normal\" ",
+      "    fixed={false} ",
+      "    ratio=\"1\"",
+      "    caption=\"De ruimte vult zich met de geur van verse ananas en pannenkoeken van maniokmeel.\" ",
+      "    credit=\"De Standaard\" ",
+      "    classes=\"\"",
+      "/>"
+    ],
+    "description": "svelte image longread"
+  },
+  "svelte quote longread": {
+    "prefix": "quote ",
+    "body": [
+      "<Quote ",
+      "      text=\"Boer Sjarel wordt ineens megakippenboer\" ",
+      "      name=\"Kurt Vanlerberghe\" ",
+      "      description=\"SP.A-gemeenteraadslid in Diksmuide\" ",
+      "/>"
+    ],
+    "description": "svelte quote longread"
+  },
+  "svelte video longread": {
+    "prefix": "video",
+    "body": [
+      "<Video ",
+      "   url=\"https://markup.standaard.be/extra/assets/extra/dslive/anti/previsualisatie/soja/beeld_lores/amazone-video/CargillSantar%C3%A9m2.mp4\" ",
+      "   mobileUrl=\"https://markup.standaard.be/extra/assets/extra/dslive/anti/2023/02-aardbeving/assets/video/MALATYA.mp4\" ",
+      "   width=\"midi\" ",
+      "   caption=\"caption Box video\" ",
+      "   credit=\"De Standaard\" ",
+      "  />"
+    ],
+    "description": "svelte video longread"
+  },
+  "svelte scroller longread": {
+    "prefix": "scroller ",
+    "body": [
+      "  <Scroller",
+      "    background={[",
+      "      \"https://markup.standaard.be/extra/assets/extra/dslive/anti/previsualisatie/soja/1-amazone/assets/video/BR163-5.mp4\",",
+      "      \"https://markup.standaard.be/extra/assets/extra/dslive/anti/previsualisatie/soja/beeld_lores/amazone-video/CargillSantar%C3%A9m2.mp4\",",
+      "      \"https://markup.standaard.be/extra/assets/extra/dslive/anti/previsualisatie/soja/beeld_lores/amazone-foto/Par%C3%A1_A5056.jpg\",",
+      "    ]}",
+      "    foregroundPosition=\"center\"",
+      "    fullscreen={true}",
+      "  >",
+      "    <section><p>Tekst 1</p></section>",
+      "    <section><p>Tekst 2</p></section>",
+      "    <section><p>Tekst 3</p></section>",
+      "  </Scroller>"
+    ],
+    "description": "svelte scroller longread"
+  },
+  "svelte lees ook longread": {
+    "prefix": "lees ook",
+    "body": [
+      "<LeesOok ",
+      "    title=\"Ook voor Belgische kaas en hamburgers wordt regenwoud gekapt\" ",
+      "    url=\"https://preview.standaard.be/cnt/dmf20230214_97567413\" ",
+      "    image=\"https://static.standaard.be/Assets/Images_Upload/2023/06/04/88fe8419-b648-4b75-a666-bf6295173e34.jpg\" ",
+      "    />"
+    ],
+    "description": "svelte lees ook longread"
+  },
+  "svelte flourish longread": {
+    "prefix": "flourish ",
+    "body": ["<Flourish  url=\"visualisation/11597006?70747\" width=\"normal\"/>", ""],
+    "description": "svelte flourish longread"
+  },
+  "svelte lottie longread": {
+    "prefix": "lottie",
+    "body": [
+      "<Lottie width=\"normal\" url=\"https://markup.standaard.be/extra/assets/extra/dslive/anti/cnidt/src/animatie1.json\" />",
+      ""
+    ],
+    "description": "svelte lottie longread"
+  },
+  "svelte socials longread": {
+    "prefix": "socials",
+    "body": [
+      "<Socials",
+      "    dmf=\"dmf20231009_95522499\"",
+      "    text=\"Hoe is het zover kunnen komen? Het Israëlisch-Palestijns conflict in 6 scharnierpunten\"",
+      "/>"
+    ],
+    "description": "svelte socials longread"
+  },
+  "svelte layout longread": {
+    "prefix": "layout",
+    "body": [
+      " <Layout width=\"midi\" caption=\"Appartementsgebouw stort neer in Sanliurfa, een stad ten oosten van Gaziantep.\" credit=\"De Standaard\">",
+      "      ",
+      "    </Layout>"
+    ],
+    "description": "svelte layout longread"
+  },
+  "svelte audio longread": {
+    "prefix": "audio",
+    "body": [
+      "<Audio url=\"https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3\">Wanneer ze een van de staldeuren openduwt, slaat een loden hitte ons in het gezicht.</Audio>"
+    ],
+    "description": "svelte audio longread"
+  },
+  "svelte header longread": {
+    "prefix": "header",
+    "body": ["  <Header />"],
+    "description": "svelte header longread"
+  },
+  "svelte karaoke longread": {
+    "prefix": "karaoke",
+    "body": [
+      " <Karaoke",
+      "    mp3=\"https://markup.standaard.be/extra/2023/10/gaza-getuigenis/assets/audio/16oktober-1miljoen.mp3\"",
+      "    image=\"https://markup.standaard.be/extra/2023/10/gaza-getuigenis/assets/fotovideo/fadi.jpg\"",
+      "    name=\"Zakaria Shehab\"",
+      "    json={eenmiljoen}",
+      "    lottie={true}",
+      "    progress={true}",
+      "  />"
+    ],
+    "description": "svelte karaoke longread"
+  },
+  "svelte karaoke accept longread": {
+    "prefix": "karaoke accept ",
+    "body": [
+      "  <KaraokeAccept>",
+      "    Dit verhaal maakt gebruik van audio­fragmenten uit gesprekken die De Standaard voerde. Tik op het afspeelicoon in de",
+      "    tekst om ze te beluisteren.",
+      "  </KaraokeAccept>"
+    ],
+    "description": "svelte karaoke accept longread"
+  },
+  "svelte spacer longread": {
+    "prefix": "spacer ",
+    "body": ["  <Spacer />", ""],
+    "description": "svelte spacer longread"
+  },
+  "svelte video with text longread": {
+    "prefix": "video with text",
+    "body": [
+      "  <Video",
+      "    url=\"https://markup.standaard.be/extra/assets/extra/dslive/anti/2023/02-aardbeving/assets/video/MALATYA.mp4\"",
+      "    mobileUrl=\"https://markup.standaard.be/extra/assets/extra/dslive/anti/2023/02-aardbeving/assets/video/MALATYA.mp4\"",
+      "    width=\"screen\"",
+      "    horizontal=\"center\"",
+      "    vertical=\"center\"",
+      "  >",
+      "    <p>",
+      "      Josenildo dos Santos Munduruku heeft geen wekker nodig. Zoals elke ochtend wordt de 37-jarige leider van het",
+      "      kleine Amazonedorp Açaizal rond 6 uur gewekt door de hitsige kreten van de zogue-zogue, een aap die in de bomen",
+      "      rond zijn huis foerageert. Terwijl het gekwetter van ­vogels door de ramen binnenwaait, bereidt hij het ontbijt.",
+      "      De ruimte vult zich met de geur van verse ananas en pannenkoeken van maniokmeel.",
+      "    </p>",
+      "  </Video>",
+      ""
+    ],
+    "description": "svelte video with text longread"
+  },
+  "svelte scroller flourish longread": {
+    "prefix": "scroller flourish",
+    "body": [
+      "  <ScrollerFlourish src=\"story/774160\" fullscreen={false} foregroundPosition=\"left\">",
+      "    <section style=\"background-color: white !important; \">",
+      "      <p style=\"color: black !important;\">",
+      "        1 Josenildo dos Santos Munduruku heeft geen wekker nodig. Zoals elke ochtend wordt de 37-jarige leider van het",
+      "        kleine Amazonedorp Açaizal rond 6 uur gewekt door de hitsige kreten van de zogue-zogue, een aap die in de bomen",
+      "        rond zijn huis foerageert. Terwijl het gekwetter van ­vogels door de ramen binnenwaait, bereidt hij het ontbijt.",
+      "        De ruimte vult zich met de geur van verse ananas en pannenkoeken van maniokmeel.",
+      "      </p>",
+      "      <Image",
+      "        url=\"https://markup.standaard.be/extra/assets/extra/dslive/anti/previsualisatie/soja/1-amazone/assets/0_bos.jpg?nieuw\"",
+      "        width=\"maxi\"",
+      "      />",
+      "    </section>",
+      "    <section>",
+      "      <p>",
+      "        2 Josenildo dos Santos Munduruku heeft geen wekker nodig. Zoals elke ochtend wordt de 37-jarige leider van het",
+      "        kleine Amazonedorp Açaizal rond 6 uur gewekt door de hitsige kreten van de zogue-zogue, een aap die in de bomen",
+      "        rond zijn huis foerageert. Terwijl het gekwetter van ­vogels door de ramen binnenwaait, bereidt hij het ontbijt.",
+      "        De ruimte vult zich met de geur van verse ananas en pannenkoeken van maniokmeel.",
+      "      </p>",
+      "    </section>",
+      "    <section>",
+      "      <h3>dsqdsqdqsdsq</h3>",
+      "      <p>",
+      "        1 Josenildo dos Santos Munduruku heeft geen wekker nodig. Zoals elke ochtend wordt de 37-jarige leider van het",
+      "        kleine Amazonedorp Açaizal rond 6 uur gewekt door de hitsige kreten van de zogue-zogue, een aap die in de bomen",
+      "        rond zijn huis foerageert. Terwijl het gekwetter van ­vogels door de ramen binnenwaait, bereidt hij het ontbijt.",
+      "        De ruimte vult zich met de geur van verse ananas en pannenkoeken van maniokmeel.",
+      "      </p>",
+      "    </section>",
+      "    <section>",
+      "      <p>",
+      "        4 Josenildo dos Santos Munduruku heeft geen wekker nodig. Zoals elke ochtend wordt de 37-jarige leider van het",
+      "        kleine Amazonedorp Açaizal rond 6 uur gewekt door de hitsige kreten van de zogue-zogue, een aap die in de bomen",
+      "        rond zijn huis foerageert. Terwijl het gekwetter van ­vogels door de ramen binnenwaait, bereidt hij het ontbijt.",
+      "        De ruimte vult zich met de geur van verse ananas en pannenkoeken van maniokmeel.",
+      "      </p>",
+      "    </section>",
+      "  </ScrollerFlourish>"
+    ],
+    "description": "svelte scroller flourish longread"
+  },
+  "svelte layout with 3 images longread": {
+    "prefix": "layout with 3 images",
+    "body": [
+      " <Layout width=\"midi\">",
+      "    <Image",
+      "      url=\"https://markup.standaard.be/extra/2023/10/gaza-getuigenis/assets/fotovideo/IMG-20231023-WA0006.jpg\"",
+      "      width=\"maxi\"",
+      "      ratio=\"1\"",
+      "    />",
+      "    <Image",
+      "      url=\"https://markup.standaard.be/extra/2023/10/gaza-getuigenis/assets/fotovideo/IMG-20231023-WA0007.jpg\"",
+      "      width=\"maxi\"",
+      "      ratio=\"1\"",
+      "    />",
+      "    <Image",
+      "      url=\"https://markup.standaard.be/extra/2023/10/gaza-getuigenis/assets/fotovideo/IMG-20231023-WA0013.jpg\"",
+      "      width=\"maxi\"",
+      "      ratio=\"1\"",
+      "    />",
+      "  </Layout>"
+    ],
+    "description": "svelte layout with 3 images longread"
+  },
+  "svelte image with text longread": {
+    "prefix": "image with text ",
+    "body": [
+      "<Image",
+      "    url=\"https://markup.standaard.be/extra/assets/extra/dslive/anti/previsualisatie/soja/1-amazone/assets/0_bos.jpg?nieuw\"",
+      "    mobileUrl=\"https://markup.standaard.be/extra/assets/extra/dslive/anti/previsualisatie/soja/1-amazone/assets/0_bos.jpg?nieuw\"",
+      "    width=\"screen\"",
+      "    horizontal=\"left\"",
+      "    vertical=\"top\"",
+      "  >",
+      "    <p>",
+      "      Josenildo dos Santos Munduruku heeft geen wekker nodig. Zoals elke ochtend wordt de 37-jarige leider van het",
+      "      kleine Amazonedorp Açaizal rond 6 uur gewekt door de hitsige kreten van de zogue-zogue, een aap die in de bomen",
+      "      rond zijn huis foerageert. Terwijl het gekwetter van ­vogels door de ramen binnenwaait, bereidt hij het ontbijt.",
+      "      De ruimte vult zich met de geur van verse ananas en pannenkoeken van maniokmeel.",
+      "    </p>",
+      "  </Image>"
+    ],
+    "description": "svelte image with text longread"
+  },
+  "svelte infobox": {
+    "prefix": "infobox",
+    "body": [
+      "<Infobox>",
+      "    <h2>Credits</h2>",
+      "    <p>",
+      "      <strong>Tekst</strong>: Dries De Smet •",
+      "      <strong>Foto</strong>: Karen Wyckmans •",
+      "      <strong>Video</strong>: Arno Vanhollebeke •",
+      "      <strong>Kaarten</strong>: Bart De Neve •",
+      "      <strong>Development</strong>: Tina Boeykens •",
+      "      <strong>Art Direction</strong>: Gert Verbelen",
+      "    </p>",
+      "  </Infobox>"
+    ],
+    "description": "infobox"
+  },
+  "svelte infobox met lees meer": {
+    "prefix": "infobox met lees meer",
+    "body": [
+      "<Infobox>",
+      "    <h2>Over CurieuzeNeuzen in de Tuin</h2>",
+      "    <p>",
+      "      De Standaard gaat vier weken lang op zoek naar jouw concrete oplossingen voor de grote uitdagingen in het",
+      "      onderwijs, rond onze gezondheid, in onze mobiliteit en woonvormen en in ons samenleven.",
+      "    </p>",
+      "    <span slot=\"leesmeer\">",
+      "      <p>",
+      "        In 2021 deden 4.400 burgerwetenschappers mee met hun tuinen, speelplaatsen en bedrijfstuinen. Er waren ook 600",
+      "        meetpunten in akkers en natuurgebieden. Dit jaar tekenden 3.000 deelnemers in voor een tweede meting. Een slimme",
+      "        sensor gaf een half jaar elke dag data door over temperatuur en vochtgehalte in de bodem. Hiermee kunnen",
+      "        wetenschappers de impact van hitte en droogte beter begrijpen en voorspellen, en concrete adviezen geven over",
+      "        hoe je een tuin of stad klimaatrobuuster kan maken.",
+      "      </p>",
+      "      <p>",
+      "        CurieuzeNeuzen in de Tuin is een initiatief van Universiteit Antwerpen en De Standaard, en kwam tot stand in",
+      "        samenwerking met verschillende publieke en private partners.",
+      "      </p>",
+      "    </span>",
+      "  </Infobox>"
+    ],
+    "description": "infobox met lees meer"
+  },
+  "svelte image animation": {
+    "prefix": "image animation",
+    "body": [
+      "  <ImageAnimate",
+      "    url1=\"https://markup.standaard.be/extra/assets/extra/dslive/anti/2022/cnidt-tuinen/assets/2-ontharden.png\"",
+      "    url2=\"https://markup.standaard.be/extra/assets/extra/dslive/anti/2022/cnidt-tuinen/assets/3-struiken-bomen.png\"",
+      "    duration={1000}",
+      "    width=\"midi\"",
+      "  />"
+    ],
+    "description": "svelte image animation"
+  }
+}

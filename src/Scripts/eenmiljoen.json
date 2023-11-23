@@ -1,0 +1,541 @@
+{
+    "id": "79f956b3-3f6e-418a-8468-82ddd5b73cb8",
+    "recordId": "podcaststandaardbe_1698315266694_1798863576",
+    "filename": "16oktober-1miljoen.mp3",
+    "startTimeOffset": 0,
+    "speakers": [
+        {
+            "spkid": "spk1",
+            "name": "Speaker 1"
+        }
+    ],
+    "segments": [
+        {
+            "speaker": "spk1",
+            "words": [
+                {
+                    "start": 1.462,
+                    "end": 1.502,
+                    "duration": 0.03999996,
+                    "text": "Et",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 1.522,
+                    "end": 1.642,
+                    "duration": 0.120000005,
+                    "text": "la",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 1.702,
+                    "end": 2.023,
+                    "duration": 0.32099998,
+                    "text": "demande,",
+                    "conf": 1,
+                    "pristine": true
+                }
+            ]
+        },
+        {
+            "speaker": "spk1",
+            "words": [
+                {
+                    "start": 2.043,
+                    "end": 2.223,
+                    "duration": 0.18000007,
+                    "text": "<br>c'est",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 2.263,
+                    "end": 2.363,
+                    "duration": 0.099999905,
+                    "text": "une",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 2.403,
+                    "end": 2.7199998,
+                    "duration": 0.31699967,
+                    "text": "demande",
+                    "conf": 1,
+                    "pristine": true
+                }
+            ]
+        },
+        {
+            "speaker": "spk1",
+            "words": [
+                {
+                    "start": 2.804,
+                    "end": 3.004,
+                    "duration": 0.20000005,
+                    "text": "à",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 3.084,
+                    "end": 3.284,
+                    "duration": 0.19999981,
+                    "text": "1",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 3.304,
+                    "end": 3.825,
+                    "duration": 0.52100015,
+                    "text": "million",
+                    "conf": 1,
+                    "pristine": true
+                }
+            ]
+        },
+        {
+            "speaker": "spk1",
+            "words": [
+                {
+                    "start": 3.845,
+                    "end": 4.386,
+                    "duration": 0.5410001,
+                    "text": "<br>d'habitants",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 4.406,
+                    "end": 4.786,
+                    "duration": 0.37999964,
+                    "text": "de",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 4.827,
+                    "end": 4.987,
+                    "duration": 0.15999985,
+                    "text": "nord",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 5.007,
+                    "end": 5.147,
+                    "duration": 0.13999987,
+                    "text": "de",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 5.167,
+                    "end": 5.644,
+                    "duration": 0.47700024,
+                    "text": "Gaza.",
+                    "conf": 1,
+                    "pristine": true
+                }
+            ]
+        },
+        {
+            "speaker": "spk1",
+            "words": [
+                {
+                    "start": 5.728,
+                    "end": 6.949,
+                    "duration": 1.2209997,
+                    "text": "Normalement,",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 7.11,
+                    "end": 7.17,
+                    "duration": 0.059999943,
+                    "text": "il",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 7.19,
+                    "end": 7.21,
+                    "duration": 0.01999998,
+                    "text": "y",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 7.25,
+                    "end": 7.41,
+                    "duration": 0.15999985,
+                    "text": "avait",
+                    "conf": 1,
+                    "pristine": true
+                }
+            ]
+        },
+        {
+            "speaker": "spk1",
+            "words": [
+                {
+                    "start": 7.43,
+                    "end": 7.71,
+                    "duration": 0.2800002,
+                    "text": "<br>quelques",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 7.73,
+                    "end": 8.111,
+                    "duration": 0.38100004,
+                    "text": "centaines",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 8.151,
+                    "end": 8.211,
+                    "duration": 0.06000042,
+                    "text": "de",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 8.251,
+                    "end": 8.4470005,
+                    "duration": 0.1960001,
+                    "text": "familles",
+                    "conf": 1,
+                    "pristine": true
+                }
+            ]
+        },
+        {
+            "speaker": "spk1",
+            "words": [
+                {
+                    "start": 8.531,
+                    "end": 8.632,
+                    "duration": 0.10099983,
+                    "text": "qui",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 8.672,
+                    "end": 8.752,
+                    "duration": 0.07999992,
+                    "text": "se",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 8.792,
+                    "end": 9.012,
+                    "duration": 0.22000027,
+                    "text": "sont",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 9.052,
+                    "end": 9.513,
+                    "duration": 0.4609995,
+                    "text": "déplacées",
+                    "conf": 1,
+                    "pristine": true
+                }
+            ]
+        },
+        {
+            "speaker": "spk1",
+            "words": [
+                {
+                    "start": 9.553,
+                    "end": 9.713,
+                    "duration": 0.15999985,
+                    "text": "<br>parce",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 9.733,
+                    "end": 9.993,
+                    "duration": 0.26000023,
+                    "text": "que",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 10.034,
+                    "end": 10.074,
+                    "duration": 0.03999996,
+                    "text": "ce",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 10.094,
+                    "end": 10.594,
+                    "duration": 0.5,
+                    "text": "sont",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 10.614,
+                    "end": 10.714,
+                    "duration": 0.09999943,
+                    "text": "des",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 10.754,
+                    "end": 11.536,
+                    "duration": 0.78200054,
+                    "text": "proches,",
+                    "conf": 1,
+                    "pristine": true
+                }
+            ]
+        },
+        {
+            "speaker": "spk1",
+            "words": [
+                {
+                    "start": 14.259,
+                    "end": 14.379,
+                    "duration": 0.119999886,
+                    "text": "des",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 14.419,
+                    "end": 14.68,
+                    "duration": 0.26100063,
+                    "text": "membres",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 14.7,
+                    "end": 14.78,
+                    "duration": 0.07999992,
+                    "text": "de",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 14.82,
+                    "end": 15.08,
+                    "duration": 0.26000023,
+                    "text": "famille",
+                    "conf": 1,
+                    "pristine": true
+                }
+            ]
+        },
+        {
+            "speaker": "spk1",
+            "words": [
+                {
+                    "start": 15.12,
+                    "end": 15.241,
+                    "duration": 0.12100029,
+                    "text": "<br>dans",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 15.281,
+                    "end": 15.361,
+                    "duration": 0.07999992,
+                    "text": "le",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 15.401,
+                    "end": 16.461,
+                    "duration": 1.0600004,
+                    "text": "sud.",
+                    "conf": 1,
+                    "pristine": true
+                }
+            ]
+        },
+        {
+            "speaker": "spk1",
+            "words": [
+                {
+                    "start": 16.642,
+                    "end": 16.723,
+                    "duration": 0.080999374,
+                    "text": "À",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 16.783,
+                    "end": 17.003,
+                    "duration": 0.21999931,
+                    "text": "part",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 17.023,
+                    "end": 17.943,
+                    "duration": 0.9200001,
+                    "text": "ça,",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 18.024,
+                    "end": 18.144,
+                    "duration": 0.11999893,
+                    "text": "la",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 18.184,
+                    "end": 18.705,
+                    "duration": 0.5209999,
+                    "text": "majorité",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 18.725,
+                    "end": 19.426,
+                    "duration": 0.7010002,
+                    "text": "de",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 19.787,
+                    "end": 20.067,
+                    "duration": 0.27999878,
+                    "text": "Gaza",
+                    "conf": 1,
+                    "pristine": true
+                }
+            ]
+        },
+        {
+            "speaker": "spk1",
+            "words": [
+                {
+                    "start": 20.087,
+                    "end": 20.207,
+                    "duration": 0.12000084,
+                    "text": "<br>qui",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 20.327,
+                    "end": 20.748,
+                    "duration": 0.42099953,
+                    "text": "habite,",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 20.768,
+                    "end": 20.888,
+                    "duration": 0.12000084,
+                    "text": "qui",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 20.948,
+                    "end": 21.105,
+                    "duration": 0.15699959,
+                    "text": "habite",
+                    "conf": 1,
+                    "pristine": true
+                }
+            ]
+        },
+        {
+            "speaker": "spk1",
+            "words": [
+                {
+                    "start": 21.189,
+                    "end": 21.289,
+                    "duration": 0.10000038,
+                    "text": "dans",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 21.329,
+                    "end": 21.409,
+                    "duration": 0.07999992,
+                    "text": "le",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 21.449,
+                    "end": 21.609,
+                    "duration": 0.15999985,
+                    "text": "nord,",
+                    "conf": 1,
+                    "pristine": true
+                }
+            ]
+        },
+        {
+            "speaker": "spk1",
+            "words": [
+                {
+                    "start": 21.649,
+                    "end": 21.749,
+                    "duration": 0.10000038,
+                    "text": "<br>il",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 21.789,
+                    "end": 21.97,
+                    "duration": 0.18099976,
+                    "text": "reste",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 22.11,
+                    "end": 22.23,
+                    "duration": 0.11999893,
+                    "text": "le",
+                    "conf": 1,
+                    "pristine": true
+                },
+                {
+                    "start": 22.27,
+                    "end": 22.51,
+                    "duration": 0.23999977,
+                    "text": "nord.",
+                    "conf": 1,
+                    "pristine": true
+                }
+            ]
+        }
+    ],
+    "highlights": []
+}

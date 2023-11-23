@@ -1,0 +1,120 @@
+/* ////////// AANPASSEN ///////// */
+
+/* :root {
+  --bg-color: #ffffff;
+  --text-color: #0a0a0a;
+  --accent: #5a4848;
+} */
+
+:root {
+  --bg-color: #212121;
+  --text-color: #f0f8ff;
+  --accent: rgb(238, 214, 108);
+}
+
+/* ////////////////////////////// */
+.regie {
+  background-color: bisque;
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 0.9em;
+}
+
+.header .titel h2 {
+  max-width: 600px;
+}
+
+.video.screen.screen {
+  margin: 5em auto;
+}
+
+img.rechterkant {
+  max-width: 45% !important;
+  float: right;
+  margin: 1em auto !important;
+}
+
+.intro {
+  font-family: arnhem, Georgia, serif;
+  font-size: 1.3em;
+  letter-spacing: normal;
+  line-height: 1.33333em !important;
+}
+
+.icon {
+  margin-right: 3px;
+}
+
+.marginZeroY {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.quoteOverlay h3 {
+  font-family: "Libre Franklin", serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-block-end: 0em !important;
+  font-size: 3em;
+  color: white;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
+}
+
+.quoteOverlay p {
+  color: white;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
+  font-size: 1.4rem;
+  font-family: "Arnhem";
+  font-weight: 500;
+  max-width: 500px;
+  margin: 0 auto 0.5em auto;
+
+  &.quote {
+    font-size: 1.6em !important;
+  }
+
+  &.description {
+    font-family: "Libre Franklin", serif;
+    margin-block-end: 0em !important;
+    font-size: 1.1rem;
+    color: white;
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  div.mobilesquare > img,
+  div.mobilesquare > video {
+    object-fit: cover !important;
+    aspect-ratio: 1/1 !important;
+  }
+
+  div.mobilehigh > img,
+  div.mobilehigh > video {
+    object-fit: cover !important;
+    aspect-ratio: 2/3 !important;
+  }
+
+  .quoteOverlay p.quote {
+    font-size: 1.4em !important;
+  }
+
+  .video.screen.screen {
+    margin: 3em auto;
+  }
+
+  .mobileflexrow {
+    flex-direction: row !important;
+    gap: 0.5em !important;
+  }
+
+  .gapMobileFix {
+    gap: 0.5em !important;
+  }
+}
+
+@media only screen and (max-width: 850px) {
+  .quoteOverlay div {
+    width: 100%;
+  }
+}
